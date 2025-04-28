@@ -24,3 +24,5 @@ const Footer = () => {
 };
 
 export default Footer;
+// --legacy-peer-deps
+// NPM_FLAGS
