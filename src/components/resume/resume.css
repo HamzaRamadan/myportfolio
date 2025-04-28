@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.resume{
+    /* border: 2px solid rebeccapurple; */
+    border: none;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--secondary);
+    padding: 0 var(--container-padding);
+}
+
+body {
+    background-color: #1a2526; /* خلفية غامقة زي الصورة */
+    color: white;
+}
+
+/* الكونتينر الرئيسي */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+/* العنوان الرئيسي */
+.resume-title {
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 40px;
+    color: white;
+}
+
+/* قسم المهارات */
+.skills-section {
+    margin-bottom: 40px;
+}
+
+.section-title {
+    font-size: 28px;
+    color: #00d4ff; /* اللون الأزرق الفاتح للعنوان */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* شبكة المهارات */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 أعمدة زي الصورة */
+    gap: 20px;
+}
+
+/* كارت المهارة */
+.skill-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+}
+
+.skill-card:hover {
+    transform: scale(1.05); /* تأثير عند التمرير بالماوس */
+}
+
+/* الأيقونات */
+.skill-icon {
+    font-size: 40px;
+    color: #333; /* لون الأيقونات */
+    margin-bottom: 10px;
+}
+
+/* نص المهارة */
+.skill-card p {
+    font-size: 16px;
+    color: #333;
+}
+
+/* جعل التصميم متجاوب */
+@media (max-width: 768px) {
+    .skills-grid {
+        grid-template-columns: repeat(2, 1fr); /* عمودين على الشاشات الصغيرة */
+    }
+}
+
+@media (max-width: 480px) {
+    .skills-grid {
+        grid-template-columns: 1fr; /* عمود واحد على الموبايل */
+    }
+}
+
