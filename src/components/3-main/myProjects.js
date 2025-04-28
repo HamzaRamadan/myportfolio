@@ -2,7 +2,7 @@ export const myProjects = [{
     projectTitle: "Simone Web Design",
     subTitle: "this project created by (Html+css) Design",
     category: ["css"],
-    imgPath: "./simone.jpg",
+    imgPath: "./images/simone.jpg",
     linkWebSite: "https://hamzaramadan.github.io/Simone/",
     GitHub: "https://github.com/HamzaRamadan/Simone"
   },
@@ -10,7 +10,7 @@ export const myProjects = [{
     projectTitle: "DevFolio Web Design",
     subTitle: "this project created by (Html+css) Design",
     category: ["css"],
-    imgPath: "./defolio.jpg",
+    imgPath: "./images/defolio.jpg",
     linkWebSite: "https://hamzaramadan.github.io/DevFolio/",
     GitHub: "https://github.com/HamzaRamadan/DevFolio"
   },
@@ -18,7 +18,7 @@ export const myProjects = [{
     projectTitle: "Fokier Web Design",
     subTitle: "this project created by (Html+css) Design",
     category: ["css"],
-    imgPath: "./fokir.jpg",
+    imgPath: "./images/fokir.jpg",
     linkWebSite: "https://hamzaramadan.github.io/Fokier/",
     GitHub: "https://github.com/HamzaRamadan/Fokier"
   },
@@ -26,7 +26,7 @@ export const myProjects = [{
     projectTitle: "Bondi Web Design",
     subTitle: "this project created  by(html+css+bootstrap) Design",
     category: ["css"],
-    imgPath: "./bondi.jpg",
+    imgPath: "./images/bondi.jpg",
     linkWebSite: "https://hamzaramadan.github.io/Bondi/",
     GitHub: "https://github.com/HamzaRamadan/Bondi"
   },
@@ -34,7 +34,7 @@ export const myProjects = [{
     projectTitle: "Angora Web Design ",
     subTitle: "this project created Web Design by(html+css+bootstrap) Design",
     category: ["css"],
-    imgPath: "./angora.jpg",
+    imgPath: "./images/angora.jpg",
     linkWebSite: "https://hamzaramadan.github.io/Angora/",
     GitHub: "https://github.com/HamzaRamadan/Angora"
   },
@@ -42,7 +42,7 @@ export const myProjects = [{
     projectTitle: "Special-Design Web Design ",
     subTitle: "this project created by(html+css+bootstrap+JS) Design",
     category: ["js"],
-    imgPath: "./special design.jfif",
+    imgPath: "./images/special design.jfif",
     linkWebSite: "https://hamzaramadan.github.io/Special-Design/",
     GitHub: "https://github.com/HamzaRamadan/Special-Design"
 
@@ -52,7 +52,7 @@ export const myProjects = [{
     projectTitle: "wheather-API Web Design ",
     subTitle: "this project created by(html+css+bootstrap+JS) Design This project by Use Html Css Bootstrap JS and use API free to Wheather It's Allows the user to see today's weather and the expected weather for tomorrow and the day after tomorrow",
     category: ["js"],
-    imgPath: "./wheather.png",
+    imgPath: "./images/wheather.png",
     linkWebSite: "https://hamzaramadan.github.io/wheather-API/",
     GitHub: "https://github.com/HamzaRamadan/wheather-API"
 
@@ -62,7 +62,7 @@ export const myProjects = [{
     projectTitle: "Egyption-party Web Design ",
     subTitle: "this project created by(html+css+bootstrap+JS) Design",
     category: ["js"],
-    imgPath: "./egyption party.jpeg",
+    imgPath: "./images/egyption party.jpeg",
     linkWebSite: "https://hamzaramadan.github.io/Egyption-party/",
     GitHub: "https://github.com/HamzaRamadan/Egyption-party"
 
@@ -72,7 +72,7 @@ export const myProjects = [{
     projectTitle: "CRUDS-OPERATION Web Design ",
     subTitle: "this project created by(html+css+bootstrap+JS) Design cruds operation proudct management system And you can Create and Read and Update and Delete And Search by Title or category  ",
     category: ["js"],
-    imgPath: "./CRUDpng.png",
+    imgPath: "./images/CRUDpng.png",
     linkWebSite: "https://hamzaramadan.github.io/CRUDS-OPERATION/",
     GitHub: "https://github.com/HamzaRamadan/CRUDS-OPERATION"
 
@@ -82,7 +82,7 @@ export const myProjects = [{
     projectTitle: "Bookmarker Web Design ",
     subTitle: "this project created by(html+css+bootstrap+JS) Design cruds operation Books  system And you can Create and Read and Update and Delete any Your favorite Books  ",
     category: ["js"],
-    imgPath: "./Bookmarkerpng.png",
+    imgPath: "./images/Bookmarkerpng.png",
     linkWebSite: "https://hamzaramadan.github.io/Bookmarker/",
     GitHub: "https://github.com/HamzaRamadan/Bookmarker"
 
@@ -92,7 +92,7 @@ export const myProjects = [{
     projectTitle: "Image Editor ",
     subTitle: "this project created by(html+css+bootstrap+JS) Design cruds operation Books  system And you can Create and Read and Update and Delete any Your favorite Books  ",
     category: ["js"],
-    imgPath: "./Image_editor.jpeg",
+    imgPath: "./images/Image_editor.jpeg",
     linkWebSite: "https://hamzaramadan.github.io/-Image-Editor/",
     GitHub: "https://github.com/HamzaRamadan/-Image-Editor"
 
@@ -104,7 +104,7 @@ export const myProjects = [{
 and this is Link to this project in firebase but it not commpleted becouse the Cloud Functions not free and Iam deploy this project before use Cloud Functions
  This is Link:- https://clone-9007e.firebaseapp.com/ `,
     category: ["react"],
-    imgPath: "./amazon_clone.png",
+    imgPath: "./images/amazon_clone.png",
     linkWebSite: "https://clone-9007e.firebaseapp.com/",
     GitHub: "https://github.com/HamzaRamadan/Amazon-clone"
 
@@ -114,7 +114,7 @@ and this is Link to this project in firebase but it not commpleted becouse the C
     projectTitle: " Simple-MovieApp ",
     subTitle: "this Project by React.js And Responsive app and it contain of Home page has all movies or Collection of movies any card has some of movies and if you need to see your favorite movie click on button (Add) and search any movie and you can add any movie in WatchList or Watched ",
     category: ["react"],
-    imgPath: "./Movies.jpeg",
+    imgPath: "./images/Movies.jpeg",
     linkWebSite: "https://github.com/HamzaRamadan/Simple-MovieApp",
     GitHub: "https://github.com/HamzaRamadan/Simple-MovieApp"
 
@@ -124,7 +124,7 @@ and this is Link to this project in firebase but it not commpleted becouse the C
     projectTitle: " Prayer-Time ",
     subTitle: "this Simple Project By (React && Vite) To Display Prayer times in Some Of Cities in Egypt by use Api And this Project is responsive with all screens ",
     category: ["react"],
-    imgPath: "./Prayer.jpg",
+    imgPath: "./images/Prayer.jpg",
     linkWebSite: " https://prayer-time-eight.vercel.app/",
     GitHub: "https://github.com/HamzaRamadan/Prayer-Time"
 
@@ -136,7 +136,7 @@ and this is Link to this project in firebase but it not commpleted becouse the C
     projectTitle: " Admin-DashBord ",
     subTitle: "this project as simple admin dashbord  by Using Material ui and Deploy project vercel and onfirebase ",
     category: ["react"],
-    imgPath: "./adminDashBord.avif",
+    imgPath: "./images/adminDashBord.avif",
     linkWebSite: " https://admin-dash-bord-orhv.vercel.app/",
     GitHub: "https://github.com/HamzaRamadan/Admin-DashBord"
 
@@ -148,7 +148,7 @@ and this is Link to this project in firebase but it not commpleted becouse the C
     projectTitle: " E-Commerce-App",
     subTitle: "this  Project is a fullStack FrontEnd and BackEnd by using Strapi you can sales products from this app and add your products by strapi as a backEnd And this Project is responsive with all screens ",
     category: ["react"],
-    imgPath: "./E-commerce.jpg",
+    imgPath: "./images/E-commerce.jpg",
     linkWebSite: " https://github.com/HamzaRamadan/E-Commerce-App",
     GitHub: "https://github.com/HamzaRamadan/E-Commerce-App"
 
@@ -158,7 +158,7 @@ and this is Link to this project in firebase but it not commpleted becouse the C
     projectTitle: " Food app",
     subTitle: " It is a website to display meals and it has a dashboard for the admin to add meals and additions to them. This project is very large.. And this Project is responsive with all screens ",
     category: ["next"],
-    imgPath: "./food.png",
+    imgPath: "./images/food.png",
     linkWebSite: "https://github.com/HamzaRamadan/food-app ",
     GitHub: "https://github.com/HamzaRamadan/food-app"
 
@@ -168,7 +168,7 @@ and this is Link to this project in firebase but it not commpleted becouse the C
     projectTitle: " Airbnb-Clone-NEXT.JS",
     subTitle: "this  Project  is a simple website for booking flights, displaying hotels, places and maps. And this Project is responsive with all screens ",
     category: ["next"],
-    imgPath: "./airbnb.png",
+    imgPath: "./images/airbnb.png",
     linkWebSite: " https://admin-dash-bord-udsc.vercel.app/ ",
     GitHub: "https://github.com/HamzaRamadan/-Airbnb-Clone-NEXT.JS"
 
@@ -178,7 +178,7 @@ and this is Link to this project in firebase but it not commpleted becouse the C
     projectTitle: " Ocean-next-js",
     subTitle: "this  Project is Loading Page UI Using Next.js and TypeScript and Tailwind.css And this Project is responsive with all screens ",
     category: ["next"],
-    imgPath: "./Ocean.png",
+    imgPath: "./images/Ocean.png",
     linkWebSite: "https://ocean-next-js-ruddy.vercel.app/",
     GitHub: " https://github.com/HamzaRamadan/ocean-Next.js "
 
